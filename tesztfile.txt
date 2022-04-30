@@ -4,5 +4,5 @@ New changes
 
 Another changes
 
-
+some
 Changes from the foo
